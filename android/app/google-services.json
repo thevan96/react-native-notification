@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258648234105",
+    "firebase_url": "https://reactnativetraining-68c5d.firebaseio.com",
+    "project_id": "reactnativetraining-68c5d",
+    "storage_bucket": "reactnativetraining-68c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258648234105:android:2a09e4993cd5b8ce031ca8",
+        "android_client_info": {
+          "package_name": "com.thevan96.reactnativenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258648234105-srjjrt92vakkamt8p49mru4g4lhm3khb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thevan96.reactnativenotification",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "258648234105-q4v86lij157jbtn9lojvp7cbq8aq7q8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNi3WjRN58X3r8po6WbiYGZvyOkySLjbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258648234105-q4v86lij157jbtn9lojvp7cbq8aq7q8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
